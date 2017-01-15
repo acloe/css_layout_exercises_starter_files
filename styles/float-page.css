@@ -9,4 +9,19 @@ main {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+  clear: left;
+}
+
+.floatleft {
+  width: 400px;
+  height: 400px;
+  margin-right: 10px;
+  float: left;
+}
+
+.floatright {
+  width: 400px;
+  height: 400px;
+  margin-left: 10px;
+  float: right;
 }
